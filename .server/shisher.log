@@ -1,0 +1,206 @@
+[90m[[31m14:51:30[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m14:51:31[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m14:51:31[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[90m[[31m14:52:16[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m14:52:17[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m14:52:17[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m14:52:32[90m] [31m[[37m*[31m][90m Platform selected: Facebook[0m
+[90m[[31m14:52:46[90m] [31m[[37m*[31m][90m Target selected: Facebook - Traditional Login[0m
+[90m[[31m14:52:52[90m] [31m[[37m*[31m][90m Initializing Cloudflared tunnel[0m
+[90m[[31m14:52:52[90m] [37mServer: http://127.0.0.1:8080[0m
+[90m[[31m14:52:53[90m] [31m[[37m*[31m][90m Configuring attack server for: facebook[0m
+[90m[[31m14:52:53[90m] [92m[[37m+[92m][37m Server files deployed[0m
+[90m[[31m14:52:53[90m] [92m[[37m+[92m][37m PHP server started on 127.0.0.1:8080[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m14:52:53[90m] [31m[[37m*[31m][90m Starting Cloudflared tunnel...[0m
+[90m[[31m14:53:01[90m] [92m[[37m+[92m][37m Cloudflared tunnel established: https://plate-challenging-launch-surround.trycloudflare.com[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m14:53:05[90m] [31m[[37m*[31m][90m Monitoring for incoming connections...[0m
+[90m[[31m14:53:27[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m14:53:28[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m14:53:28[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m14:53:55[90m] [31m[[37m*[31m][90m Platform selected: Facebook[0m
+[90m[[31m14:53:56[90m] [31m[[37m*[31m][90m Target selected: Facebook - Traditional Login[0m
+[90m[[31m14:53:59[90m] [31m[[37m*[31m][90m Initializing Cloudflared tunnel[0m
+[90m[[31m14:53:59[90m] [37mServer: http://127.0.0.1:8080[0m
+[90m[[31m14:54:00[90m] [31m[[37m*[31m][90m Configuring attack server for: facebook[0m
+[90m[[31m14:54:00[90m] [92m[[37m+[92m][37m Server files deployed[0m
+[90m[[31m14:54:00[90m] [92m[[37m+[92m][37m PHP server started on 127.0.0.1:8080[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m14:54:00[90m] [31m[[37m*[31m][90m Starting Cloudflared tunnel...[0m
+[90m[[31m14:57:16[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m14:57:17[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m14:57:17[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[90m[[31m14:57:22[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m14:57:23[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m14:57:23[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m14:57:27[90m] [31m[[37m*[31m][90m Platform selected: Facebook[0m
+[90m[[31m14:57:28[90m] [31m[[37m*[31m][90m Target selected: Facebook - Traditional Login[0m
+[90m[[31m14:57:39[90m] [31m[[37m*[31m][90m Initializing Cloudflared tunnel[0m
+[90m[[31m14:57:39[90m] [37mServer: http://127.0.0.1:8080[0m
+[90m[[31m14:57:40[90m] [31m[[37m*[31m][90m Configuring attack server for: facebook[0m
+[90m[[31m14:57:40[90m] [92m[[37m+[92m][37m Server files deployed[0m
+[90m[[31m14:57:40[90m] [92m[[37m+[92m][37m PHP server started on 127.0.0.1:8080[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m14:57:40[90m] [31m[[37m*[31m][90m Starting Cloudflared tunnel...[0m
+[90m[[31m14:57:48[90m] [92m[[37m+[92m][37m Cloudflared tunnel established: https://diploma-anime-bases-information.trycloudflare.com[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m14:57:53[90m] [31m[[37m*[31m][90m Monitoring for incoming connections...[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m14:57:56[90m] [92m[[37m+[92m][37m TARGET IP DETECTED: 103.155.118.252[0m
+[90m[[31m14:57:56[90m] [31m[[37m*[31m][90m IP address logged to: auth/ip.txt[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m14:57:58[90m] [92m[[37m+[92m][37m TARGET IP DETECTED: 103.155.118.252 103.155.118.252[0m
+[90m[[31m14:57:58[90m] [31m[[37m*[31m][90m IP address logged to: auth/ip.txt[0m
+[90m[[31m15:05:20[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m15:05:22[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m15:05:22[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:05:24[90m] [31m[[37m*[31m][90m Platform selected: Facebook[0m
+[90m[[31m15:05:25[90m] [31m[[37m*[31m][90m Target selected: Facebook - Traditional Login[0m
+[90m[[31m15:05:28[90m] [31m[[37m*[31m][90m Initializing Cloudflared tunnel[0m
+[90m[[31m15:05:28[90m] [37mServer: http://127.0.0.1:8080[0m
+[90m[[31m15:05:29[90m] [31m[[37m*[31m][90m Configuring attack server for: facebook[0m
+[90m[[31m15:05:29[90m] [92m[[37m+[92m][37m Server files deployed[0m
+[90m[[31m15:05:29[90m] [92m[[37m+[92m][37m PHP server started on 127.0.0.1:8080[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:05:29[90m] [31m[[37m*[31m][90m Starting Cloudflared tunnel...[0m
+[90m[[31m15:05:37[90m] [92m[[37m+[92m][37m Cloudflared tunnel established: https://seems-pulse-and-berkeley.trycloudflare.com[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:05:40[90m] [31m[[37m*[31m][90m Monitoring for incoming connections...[0m
+[90m[[31m15:06:56[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m15:06:57[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m15:06:57[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:06:59[90m] [31m[[37m*[31m][90m Platform selected: Facebook[0m
+[90m[[31m15:07:00[90m] [31m[[37m*[31m][90m Target selected: Facebook - Traditional Login[0m
+[90m[[31m15:07:02[90m] [31m[[37m*[31m][90m Initializing Cloudflared tunnel[0m
+[90m[[31m15:07:02[90m] [37mServer: http://127.0.0.1:8080[0m
+[90m[[31m15:07:03[90m] [31m[[37m*[31m][90m Configuring attack server for: facebook[0m
+[90m[[31m15:07:03[90m] [92m[[37m+[92m][37m Server files deployed[0m
+[90m[[31m15:07:03[90m] [92m[[37m+[92m][37m PHP server started on 127.0.0.1:8080[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:07:03[90m] [31m[[37m*[31m][90m Starting Cloudflared tunnel...[0m
+[90m[[31m15:07:11[90m] [92m[[37m+[92m][37m Cloudflared tunnel established: https://losing-affair-taught-grove.trycloudflare.com[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:07:14[90m] [31m[[37m*[31m][90m Monitoring for incoming connections...[0m
+[90m[[31m15:09:31[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m15:09:33[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m15:09:33[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:09:34[90m] [31m[[37m*[31m][90m Platform selected: Facebook[0m
+[90m[[31m15:09:35[90m] [31m[[37m*[31m][90m Target selected: Facebook - Traditional Login[0m
+[90m[[31m15:09:37[90m] [31m[[37m*[31m][90m Initializing Cloudflared tunnel[0m
+[90m[[31m15:09:37[90m] [37mServer: http://127.0.0.1:8080[0m
+[90m[[31m15:09:38[90m] [31m[[37m*[31m][90m Configuring attack server for: facebook[0m
+[90m[[31m15:09:38[90m] [92m[[37m+[92m][37m Server files deployed[0m
+[90m[[31m15:09:38[90m] [92m[[37m+[92m][37m PHP server started on 127.0.0.1:8080[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:09:38[90m] [31m[[37m*[31m][90m Starting Cloudflared tunnel...[0m
+[90m[[31m15:09:46[90m] [92m[[37m+[92m][37m Cloudflared tunnel established: https://victory-smaller-super-artist.trycloudflare.com[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:09:50[90m] [31m[[37m*[31m][90m Monitoring for incoming connections...[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:09:54[90m] [92m[[37m+[92m][37m TARGET IP COMPROMISED: 103.155.118.252[0m
+[90m[[31m15:09:54[90m] [37mLocation: Sakhipur, Dhaka Division (C), Bangladesh (BD)[0m
+[90m[[31m15:09:54[90m] [37mISP: Race Online Ltd.[0m
+[90m[[31m15:09:54[90m] [31m[[37m*[31m][90m Full data saved to: auth/ip.txt[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:09:56[90m] [92m[[37m+[92m][37m TARGET IP COMPROMISED: 103.155.118.252[0m
+[90m[[31m15:09:56[90m] [37mLocation: Sakhipur, Dhaka Division (C), Bangladesh (BD)[0m
+[90m[[31m15:09:56[90m] [37mISP: Race Online Ltd.[0m
+[90m[[31m15:09:56[90m] [31m[[37m*[31m][90m Full data saved to: auth/ip.txt[0m
+[90m[[31m15:10:50[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m15:10:51[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m15:10:51[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:10:56[90m] [31m[[37m*[31m][90m Platform selected: Facebook[0m
+[90m[[31m15:10:57[90m] [31m[[37m*[31m][90m Target selected: Facebook - Advanced Voting Poll[0m
+[90m[[31m15:11:00[90m] [31m[[37m*[31m][90m Initializing Cloudflared tunnel[0m
+[90m[[31m15:11:00[90m] [37mServer: http://127.0.0.1:8080[0m
+[90m[[31m15:11:01[90m] [31m[[37m*[31m][90m Configuring attack server for: fb_advanced[0m
+[90m[[31m15:11:01[90m] [92m[[37m+[92m][37m Server files deployed[0m
+[90m[[31m15:11:01[90m] [92m[[37m+[92m][37m PHP server started on 127.0.0.1:8080[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:11:01[90m] [31m[[37m*[31m][90m Starting Cloudflared tunnel...[0m
+[90m[[31m15:11:09[90m] [92m[[37m+[92m][37m Cloudflared tunnel established: https://propecia-deaf-sees-blades.trycloudflare.com[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:11:13[90m] [31m[[37m*[31m][90m Monitoring for incoming connections...[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:11:17[90m] [92m[[37m+[92m][37m TARGET IP COMPROMISED: 103.155.118.252[0m
+[90m[[31m15:11:17[90m] [37mLocation: Sakhipur, Dhaka Division (C), Bangladesh (BD)[0m
+[90m[[31m15:11:17[90m] [37mISP: Race Online Ltd.[0m
+[90m[[31m15:11:17[90m] [31m[[37m*[31m][90m Full data saved to: auth/ip.txt[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:11:19[90m] [92m[[37m+[92m][37m TARGET IP COMPROMISED: 103.155.118.252[0m
+[90m[[31m15:11:19[90m] [37mLocation: Sakhipur, Dhaka Division (C), Bangladesh (BD)[0m
+[90m[[31m15:11:19[90m] [37mISP: Race Online Ltd.[0m
+[90m[[31m15:11:19[90m] [31m[[37m*[31m][90m Full data saved to: auth/ip.txt[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:11:37[90m] [92m[[37m+[92m][37m TARGET IP COMPROMISED: 103.155.118.252[0m
+[90m[[31m15:11:37[90m] [37mLocation: Sakhipur, Dhaka Division (C), Bangladesh (BD)[0m
+[90m[[31m15:11:37[90m] [37mISP: Race Online Ltd.[0m
+[90m[[31m15:11:37[90m] [31m[[37m*[31m][90m Full data saved to: auth/ip.txt[0m
+[90m[[31m15:21:32[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m15:21:33[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m15:21:33[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:21:35[90m] [31m[[37m*[31m][90m Platform selected: Facebook[0m
+[90m[[31m15:21:38[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m15:21:38[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m15:21:38[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:21:40[90m] [31m[[37m*[31m][90m Platform selected: Facebook[0m
+[90m[[31m15:21:42[90m] [31m[[37m*[31m][90m Target selected: Facebook - Advanced Voting Poll[0m
+[90m[[31m15:21:43[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m15:21:44[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m15:21:44[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:21:44[90m] [31m[[37m*[31m][90m Platform selected: Facebook[0m
+[90m[[31m15:21:45[90m] [31m[[37m*[31m][90m Target selected: Facebook - Traditional Login[0m
+[90m[[31m15:21:47[90m] [31m[[37m*[31m][90m Initializing Cloudflared tunnel[0m
+[90m[[31m15:21:47[90m] [37mServer: http://127.0.0.1:8080[0m
+[90m[[31m15:21:48[90m] [31m[[37m*[31m][90m Configuring attack server for: facebook[0m
+[90m[[31m15:21:48[90m] [92m[[37m+[92m][37m Server files deployed with advanced tracking[0m
+[90m[[31m15:21:48[90m] [92m[[37m+[92m][37m PHP server started on 127.0.0.1:8080[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:21:48[90m] [31m[[37m*[31m][90m Starting Cloudflared tunnel...[0m
+[90m[[31m15:21:56[90m] [92m[[37m+[92m][37m Cloudflared tunnel established: https://improvement-meetup-gnome-lou.trycloudflare.com[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:21:59[90m] [31m[[37m*[31m][90m Monitoring for incoming connections...[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:22:09[90m] [92m[[37m+[92m][37m TARGET IP COMPROMISED: 103.155.118.252[0m
+[90m[[31m15:22:09[90m] [37mLocation: Sakhipur, Dhaka Division (C), Bangladesh (BD)[0m
+[90m[[31m15:22:09[90m] [37mISP: Race Online Ltd.[0m
+[90m[[31m15:22:09[90m] [31m[[37m*[31m][90m Full data saved to: auth/ip.txt[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:22:11[90m] [92m[[37m+[92m][37m TARGET IP COMPROMISED: 103.155.118.252[0m
+[90m[[31m15:22:11[90m] [37mLocation: Sakhipur, Dhaka Division (C), Bangladesh (BD)[0m
+[90m[[31m15:22:11[90m] [37mISP: Race Online Ltd.[0m
+[90m[[31m15:22:11[90m] [31m[[37m*[31m][90m Full data saved to: auth/ip.txt[0m
+[31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m
+[90m[[31m15:22:26[90m] [92m[[37m+[92m][37m CREDENTIALS COMPROMISED[0m
+[90m[[31m15:22:26[90m] [37mAccount: ulaoikry@gmail.com[0m
+[90m[[31m15:22:26[90m] [37mPassword: rian23930[0m
+[90m[[31m15:22:26[90m] [31m[[37m*[31m][90m Credentials saved to: auth/usernames.dat[0m
+[90m[[31m15:27:11[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m15:27:11[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m15:27:11[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[90m[[31m15:40:27[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m15:40:29[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m15:40:29[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[90m[[31m15:49:54[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m15:49:55[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m15:49:55[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[90m[[31m06:55:44[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m06:55:45[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m06:55:45[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[90m[[31m06:57:28[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m06:57:29[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m06:57:29[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m
+[90m[[31m07:10:14[90m] [31m[[37m*[31m][90m Checking dependencies...[0m
+[90m[[31m07:10:15[90m] [92m[[37m+[92m][37m Cloudflared already installed[0m
+[90m[[31m07:10:15[90m] [92m[[37m+[92m][37m LocalXpose already installed[0m

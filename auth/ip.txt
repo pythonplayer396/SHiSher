@@ -1,0 +1,315 @@
+IP: 103.155.118.252
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+
+IP: 103.155.118.252
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+
+IP: 103.155.118.252
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-10-28 19:09:54] ▼ NEW TARGET DETECTED ▼
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔═══ IP INFORMATION ═══╗
+  Real IP Address: 103.155.118.252
+
+╔═══ GEOLOCATION DATA ═══╗
+  Country: Bangladesh (BD)
+  Region: Dhaka Division (C)
+  City: Sakhipur
+  ZIP Code: 
+  Coordinates: 24.3199, 90.1694
+  Timezone: Asia/Dhaka
+  ISP: Race Online Ltd.
+  Organization: Manas Barua
+  AS Number: AS63969 Race Online Limited
+  Maps: https://www.google.com/maps?q=24.3199,90.1694
+
+╔═══ DEVICE & BROWSER ═══╗
+  User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+  Language: en-US,en;q=0.9
+  Encoding: gzip
+  Referer: Direct
+  Protocol: HTTP/1.1
+
+╔═══ REQUEST DETAILS ═══╗
+  Request URI: /
+  Request Method: GET
+  Request Time: 2025-10-28 19:09:53
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-10-28 19:09:55] ▼ NEW TARGET DETECTED ▼
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔═══ IP INFORMATION ═══╗
+  Real IP Address: 103.155.118.252
+
+╔═══ GEOLOCATION DATA ═══╗
+  Country: Bangladesh (BD)
+  Region: Dhaka Division (C)
+  City: Sakhipur
+  ZIP Code: 
+  Coordinates: 24.3199, 90.1694
+  Timezone: Asia/Dhaka
+  ISP: Race Online Ltd.
+  Organization: Manas Barua
+  AS Number: AS63969 Race Online Limited
+  Maps: https://www.google.com/maps?q=24.3199,90.1694
+
+╔═══ DEVICE & BROWSER ═══╗
+  User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+  Language: en-US,en;q=0.9
+  Encoding: gzip
+  Referer: https://victory-smaller-super-artist.trycloudflare.com/style.css
+  Protocol: HTTP/1.1
+
+╔═══ REQUEST DETAILS ═══╗
+  Request URI: /rsrc.php/v3/yN/r/Zfa41ZGNBTY.png
+  Request Method: GET
+  Request Time: 2025-10-28 19:09:55
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-10-28 19:09:56] ▼ NEW TARGET DETECTED ▼
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔═══ IP INFORMATION ═══╗
+  Real IP Address: 103.155.118.252
+
+╔═══ GEOLOCATION DATA ═══╗
+  Country: Bangladesh (BD)
+  Region: Dhaka Division (C)
+  City: Sakhipur
+  ZIP Code: 
+  Coordinates: 24.3199, 90.1694
+  Timezone: Asia/Dhaka
+  ISP: Race Online Ltd.
+  Organization: Manas Barua
+  AS Number: AS63969 Race Online Limited
+  Maps: https://www.google.com/maps?q=24.3199,90.1694
+
+╔═══ DEVICE & BROWSER ═══╗
+  User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+  Language: en-US,en;q=0.9
+  Encoding: gzip
+  Referer: https://victory-smaller-super-artist.trycloudflare.com/style.css
+  Protocol: HTTP/1.1
+
+╔═══ REQUEST DETAILS ═══╗
+  Request URI: /rsrc.php/v3/yO/r/YQNfPR9MJfx.png
+  Request Method: GET
+  Request Time: 2025-10-28 19:09:55
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-10-28 19:11:16] ▼ NEW TARGET DETECTED ▼
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔═══ IP INFORMATION ═══╗
+  Real IP Address: 103.155.118.252
+
+╔═══ GEOLOCATION DATA ═══╗
+  Country: Bangladesh (BD)
+  Region: Dhaka Division (C)
+  City: Sakhipur
+  ZIP Code: 
+  Coordinates: 24.3199, 90.1694
+  Timezone: Asia/Dhaka
+  ISP: Race Online Ltd.
+  Organization: Manas Barua
+  AS Number: AS63969 Race Online Limited
+  Maps: https://www.google.com/maps?q=24.3199,90.1694
+
+╔═══ DEVICE & BROWSER ═══╗
+  User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+  Language: en-US,en;q=0.5
+  Encoding: gzip
+  Referer: Direct
+  Protocol: HTTP/1.1
+
+╔═══ REQUEST DETAILS ═══╗
+  Request URI: /
+  Request Method: GET
+  Request Time: 2025-10-28 19:11:16
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-10-28 19:11:18] ▼ NEW TARGET DETECTED ▼
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔═══ IP INFORMATION ═══╗
+  Real IP Address: 103.155.118.252
+
+╔═══ GEOLOCATION DATA ═══╗
+  Country: Bangladesh (BD)
+  Region: Dhaka Division (C)
+  City: Sakhipur
+  ZIP Code: 
+  Coordinates: 24.3199, 90.1694
+  Timezone: Asia/Dhaka
+  ISP: Race Online Ltd.
+  Organization: Manas Barua
+  AS Number: AS63969 Race Online Limited
+  Maps: https://www.google.com/maps?q=24.3199,90.1694
+
+╔═══ DEVICE & BROWSER ═══╗
+  User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+  Language: en-US,en;q=0.5
+  Encoding: gzip
+  Referer: https://propecia-deaf-sees-blades.trycloudflare.com/login.html
+  Protocol: HTTP/1.1
+
+╔═══ REQUEST DETAILS ═══╗
+  Request URI: /favicon.ico
+  Request Method: GET
+  Request Time: 2025-10-28 19:11:17
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-10-28 19:11:36] ▼ NEW TARGET DETECTED ▼
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔═══ IP INFORMATION ═══╗
+  Real IP Address: 103.155.118.252
+
+╔═══ GEOLOCATION DATA ═══╗
+  Country: Bangladesh (BD)
+  Region: Dhaka Division (C)
+  City: Sakhipur
+  ZIP Code: 
+  Coordinates: 24.3199, 90.1694
+  Timezone: Asia/Dhaka
+  ISP: Race Online Ltd.
+  Organization: Manas Barua
+  AS Number: AS63969 Race Online Limited
+  Maps: https://www.google.com/maps?q=24.3199,90.1694
+
+╔═══ DEVICE & BROWSER ═══╗
+  User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+  Language: en-US,en;q=0.5
+  Encoding: gzip
+  Referer: https://propecia-deaf-sees-blades.trycloudflare.com/login.html
+  Protocol: HTTP/1.1
+
+╔═══ REQUEST DETAILS ═══╗
+  Request URI: /favicon.ico
+  Request Method: GET
+  Request Time: 2025-10-28 19:11:35
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-10-28 19:22:07] ▼ NEW TARGET DETECTED ▼
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔═══ IP INFORMATION ═══╗
+  Real IP Address: 103.155.118.252
+
+╔═══ GEOLOCATION DATA ═══╗
+  Country: Bangladesh (BD)
+  Region: Dhaka Division (C)
+  City: Sakhipur
+  ZIP Code: 
+  Coordinates: 24.3199, 90.1694
+  Timezone: Asia/Dhaka
+  ISP: Race Online Ltd.
+  Organization: Manas Barua
+  AS Number: AS63969 Race Online Limited
+  Maps: https://www.google.com/maps?q=24.3199,90.1694
+
+╔═══ DEVICE & BROWSER ═══╗
+  User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+  Language: en-US,en;q=0.8
+  Encoding: gzip
+  Referer: Direct
+  Protocol: HTTP/1.1
+
+╔═══ REQUEST DETAILS ═══╗
+  Request URI: /
+  Request Method: GET
+  Request Time: 2025-10-28 19:22:06
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-10-28 19:22:09] ▼ NEW TARGET DETECTED ▼
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔═══ IP INFORMATION ═══╗
+  Real IP Address: 103.155.118.252
+
+╔═══ GEOLOCATION DATA ═══╗
+  Country: Bangladesh (BD)
+  Region: Dhaka Division (C)
+  City: Sakhipur
+  ZIP Code: 
+  Coordinates: 24.3199, 90.1694
+  Timezone: Asia/Dhaka
+  ISP: Race Online Ltd.
+  Organization: Manas Barua
+  AS Number: AS63969 Race Online Limited
+  Maps: https://www.google.com/maps?q=24.3199,90.1694
+
+╔═══ DEVICE & BROWSER ═══╗
+  User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+  Language: en-US,en;q=0.8
+  Encoding: gzip
+  Referer: https://improvement-meetup-gnome-lou.trycloudflare.com/style.css
+  Protocol: HTTP/1.1
+
+╔═══ REQUEST DETAILS ═══╗
+  Request URI: /rsrc.php/v3/yN/r/Zfa41ZGNBTY.png
+  Request Method: GET
+  Request Time: 2025-10-28 19:22:09
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2025-10-28 19:22:10] ▼ NEW TARGET DETECTED ▼
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+╔═══ IP INFORMATION ═══╗
+  Real IP Address: 103.155.118.252
+
+╔═══ GEOLOCATION DATA ═══╗
+  Country: Bangladesh (BD)
+  Region: Dhaka Division (C)
+  City: Sakhipur
+  ZIP Code: 
+  Coordinates: 24.3199, 90.1694
+  Timezone: Asia/Dhaka
+  ISP: Race Online Ltd.
+  Organization: Manas Barua
+  AS Number: AS63969 Race Online Limited
+  Maps: https://www.google.com/maps?q=24.3199,90.1694
+
+╔═══ DEVICE & BROWSER ═══╗
+  User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+  Language: en-US,en;q=0.8
+  Encoding: gzip
+  Referer: https://improvement-meetup-gnome-lou.trycloudflare.com/style.css
+  Protocol: HTTP/1.1
+
+╔═══ REQUEST DETAILS ═══╗
+  Request URI: /rsrc.php/v3/yO/r/YQNfPR9MJfx.png
+  Request Method: GET
+  Request Time: 2025-10-28 19:22:09
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
